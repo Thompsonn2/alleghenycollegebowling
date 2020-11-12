@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Allegheny Club Bowling
 tagline: ACB
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+featuredImage: /assets/bowling-alley-image.jpg
 cta:
   ctaText: Register Here
   ctaLink: /about
