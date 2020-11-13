@@ -8,16 +8,16 @@ const MenuItems = [
     title: "Home"
   },
   {
-    path: "/about",
-    title: "About"
+    path: "/register",
+    title: "Register"
   },
   {
-    path: "/blog",
-    title: "Blog"
+    path: "/about-us",
+    title: "About Us"
   },
   {
-    path: "/contact",
-    title: "Contact"
+    path: "/contact-us",
+    title: "Contact Us"
   },
 ]
 
