@@ -16,6 +16,10 @@ const MenuItems = [
     title: "About Us"
   },
   {
+    path: "photo-gallery",
+    title: "Photo Gallery"
+  },
+  {
     path: "/contact-us",
     title: "Contact Us"
   },
