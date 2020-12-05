@@ -16,7 +16,7 @@ const MenuItems = [
     title: "About Us"
   },
   {
-    path: "photo-gallery",
+    path: "/photo-gallery",
     title: "Photo Gallery"
   },
   {
