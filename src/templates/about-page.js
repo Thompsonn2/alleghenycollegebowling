@@ -30,6 +30,12 @@ const AboutPage = ({ data }) => {
 				<h1>{frontmatter.title}</h1>
 				<article dangerouslySetInnerHTML={{ __html: html }} />
 			</div>
+			<ul>
+				Cam Karnik, President
+				Major: Psycology
+				Hometown: Lorain, Ohio
+				Highscore: ####
+			</ul>
 		</Layout>
 	)
 }
