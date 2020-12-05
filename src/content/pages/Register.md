@@ -3,6 +3,6 @@ template: contact-page
 slug: /register
 title: Register to Bowl Now!
 ---
-Got a burning question regarding **JAMstack**, Need a new **Website**, or just anything in general. We are happy to talk.
+The following information below is needed to join the Allegheny Bowling Club. By providing this information you gives the club permission to enter it into the membership form as needed. 
 
-Just send us a message using the form below or you can send us a DM on [Twitter](https://twitter.com/stackrole)
+If you are not comfortable please contact us and we will gladly get a copy of the form to you. Please state whether you would like a digital or paper version of the membership form.
