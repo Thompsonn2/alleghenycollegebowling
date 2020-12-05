@@ -45,14 +45,43 @@ const Contact = ({data}) => {
             <label>Email<input type="email" name="email" required /></label>
           </p>
           <p>
-            <label>Subject<input type="text" name="subject" required /></label>   
+            <label>Box #<input type="box" name="box" required /></label>
           </p>
           <p>
-            <label>Message<textarea name="message" required ></textarea></label>
+            <label>Year in School<input type="year" name="year" required /></label>   
+          </p>
+          <p>
+            <label>Cellphone Number<input type="number" name="number" required /></label>
+          </p>
+          <p>
+            <label>Birth Date<input type="DOB" name="DOB" required /></label>
+          </p>
+          <p>
+            <label>Any Medical Allergies or Medical Conditions<textarea name="MI" required ></textarea></label>
+          </p>
+          <p>
+            <label>Other<input type="Other" name="Other"/></label>
+          </p>
+          <p>
+            <label>Date<input type="Date" name="Date" required /></label>
+          </p>
+          Emergency Contact Information
+          <p>
+            <label>Name<input type="Name" name="Name" required /></label>
+          </p>
+          <p>
+            <label>Relationship<input type="Relation" name="Relation" required /></label>
+          </p>
+          <p>
+            <label>Cellphone Number<input type="number" name="number" required /></label>
+          </p>
+          <p>
+            <label>Homephone Number<input type="Hnumber" name="Hnumber" required /></label>
           </p>
           <p className="text-align-right">
-            <button className="button" type="submit">Send Message <span className="icon -right"><RiSendPlane2Line/></span></button>
+            <button className="button" type="submit">Register <span className="icon -right"><RiSendPlane2Line/></span></button>
           </p>
+          
         </form>
       </div>
 
