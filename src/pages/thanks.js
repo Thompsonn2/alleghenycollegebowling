@@ -16,7 +16,7 @@ const Thanks = () => (
         color: "var(--primary-color)"
       }}/>
       <h1>Got your Submission</h1>
-      <p>Thanks for you interest in our club. Please email us to confirm you submission.</p>
+      <p>Thanks for you interest in our club. Please expect an email soon confirming your registration.</p>
       <Link to="/" className="button"><RiArrowLeftSLine className="icon -left"/>Back to Homepage</Link>
     </div>
 
