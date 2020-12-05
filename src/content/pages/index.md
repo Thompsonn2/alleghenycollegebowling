@@ -2,7 +2,7 @@
 template: index-page
 slug: /
 title: Allegheny College Bowling
-tagline: ACB
+tagline: A.C.B.
 featuredImage: /assets/bowling-alley-image.jpg
 cta:
   ctaText: Register Here

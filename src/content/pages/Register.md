@@ -1,7 +1,7 @@
 ---
 template: contact-page
 slug: /register
-title: Get in touch
+title: Register Now for the A.C.B.
 ---
 Got a burning question regarding **JAMstack**, Need a new **Website**, or just anything in general. We are happy to talk.
 

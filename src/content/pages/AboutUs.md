@@ -1,7 +1,7 @@
 ---
 template: about-page
 slug: /about-us
-title: Register Now for the Allegheny Bowling Club
+title: About Us 
 ---
 Thank you! Now say "nuclear wessels"! No! Don't jump! A sexy mistake. Anyone who laughs is a communist!
 
