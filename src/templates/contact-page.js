@@ -65,7 +65,7 @@ const Contact = ({data}) => {
           <p>
             <label>Date<input type="Date" name="Date" required /></label>
           </p>
-          Emergency Contact Information
+          <h2>Emergency Contact Information</h2>
           <p>
             <label>Name<input type="Name" name="Name" required /></label>
           </p>
