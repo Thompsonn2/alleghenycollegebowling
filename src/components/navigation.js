@@ -13,10 +13,10 @@ const MenuItems = [
   },
   {
     path: "/about-us",
-    title: "About Us"
+    title: "About"
   },
   {
-    path: "/photo-gallery",
+    path: "/blog",
     title: "Photo Gallery"
   },
   {
