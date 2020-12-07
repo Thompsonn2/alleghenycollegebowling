@@ -432,22 +432,22 @@ article img {
 }
 
 .about-page {
-	.CK {
-		width: 500px;
-		padding: 10px;
-		border: 2px solid gray;
-		margin: 0;
-	}
+	//.CK {
+		//width: 500px;
+		//padding: 10px;
+		//border: 2px solid gray;
+		//margin: 0;
+	//}
 	img {
 		padding: 5px;
     	width: 150px;
     	float: left;
     	text-align: center;
 	}
-	.CKInfo {
-		text-align: justify;
-		padding: 0px 10px 0px 0px;
-	}
+	//.CKInfo {
+		//text-align: justify;
+		//padding: 0px 10px 0px 0px;
+	//}
 }
 
 @import "utility";
