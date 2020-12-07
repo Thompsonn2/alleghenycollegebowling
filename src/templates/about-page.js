@@ -31,10 +31,10 @@ const AboutPage = ({ data }) => {
 				<article dangerouslySetInnerHTML={{ __html: html }} />
 			</div>
 			<ul>
-				Cam Karnik, President
-				Major: Psycology
-				Hometown: Lorain, Ohio
-				Highscore: ####
+				<li>Cam Karnik, President</li>
+				<li>Major: Psycology</li>
+				<li>Hometown: Lorain, Ohio</li>
+				<li>Highscore: ####</li>
 			</ul>
 		</Layout>
 	)
