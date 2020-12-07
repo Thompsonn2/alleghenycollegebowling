@@ -22,14 +22,6 @@ const AboutPage = ({ data }) => {
 
 	return (
 		<Layout className="page">
-			<SEO
-				title={frontmatter.title}
-				description={excerpt}
-			/>
-			<div className="wrapper">
-				<h1>{frontmatter.title}</h1>
-				<article dangerouslySetInnerHTML={{ __html: html }} />
-			</div>
 			<div class = "CKInfo">
 				<ul>
 					<li>Cam Karnik, President</li>
@@ -39,6 +31,15 @@ const AboutPage = ({ data }) => {
 				</ul>
 				<img src = "/assets/Karnick_Cam_2019.jpg" alt = "CKPicture" align = "left"/>
 			</div>
+			<SEO
+				title={frontmatter.title}
+				description={excerpt}
+			/>
+			<div className="wrapper">
+				<h1>{frontmatter.title}</h1>
+				<article dangerouslySetInnerHTML={{ __html: html }} />
+			</div>
+			
 		</Layout>
 	)
 }
