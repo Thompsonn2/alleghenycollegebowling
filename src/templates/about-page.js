@@ -32,15 +32,9 @@ const AboutPage = ({ data }) => {
 				<h1>{frontmatter.title}</h1>
 				<article dangerouslySetInnerHTML={{ __html: html }} />
 			</div>
-			<style>
-				.img-container{
-					text-align: center;
-					display: block;
-				}
-			</style>
-			<span class = "img-container">
+			<div className = "img-container">
 				<img src = "/assets/Karnick_Cam_2019.jpg" alt = ""/>
-			</span>
+			</div>
 			
 
 		</Layout>
