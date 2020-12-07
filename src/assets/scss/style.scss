@@ -432,9 +432,6 @@ article img {
 }
 
 .contact-page {
-	.CK {
-		padding: 50px;
-	}
 	img {
 		float: left;
 		width: 250px;
@@ -443,6 +440,7 @@ article img {
 	}
 	.CKInfo {
 		text-align: justify;
+		padding: 0px 10px 0px 0px;
 	}
 }
 
