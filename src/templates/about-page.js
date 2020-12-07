@@ -32,7 +32,7 @@ const AboutPage = ({ data }) => {
 				<h1>{frontmatter.title}</h1>
 				<article dangerouslySetInnerHTML={{ __html: html }} />
 			</div>
-			<img src = "/assets/Karnick_Cam_2019.jpg" alt = "CKPicture" align = "left"/>
+			<img src = "/assets/Karnick_Cam_2019.jpg" alt = "CKPicture"/>
 			<div class = "CKInfo">
 				Cam Karnik, President 	<br></br>
 				Major: Psycology		<br></br>
