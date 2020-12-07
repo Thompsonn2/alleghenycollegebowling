@@ -35,12 +35,10 @@ const AboutPage = ({ data }) => {
 			<div class = "CK">
 				<img src = "/assets/Karnick_Cam_2019.jpg" alt = "CKPicture" align = "left"/>
 				<div class = "CKInfo">
-					<ul>
-						<li>Cam Karnik, President</li>
-						<li>Major: Psycology</li>
-						<li>Hometown: Lorain, Ohio</li>
-						<li>Highscore: ####</li>
-					</ul>
+					Cam Karnik, President 	<br></br>
+					Major: Psycology		<br></br>
+					Hometown: Lorain, Ohio	<br></br>
+					Highscore: ####			<br></br>
 				</div>
 			</div>
 
