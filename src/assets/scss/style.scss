@@ -431,6 +431,21 @@ article img {
 	}
 }
 
+.contact-page {
+	.CK {
+		padding: 50px;
+	}
+	img {
+		float: left;
+		width: 250px;
+		height: 350px;
+		padding: 0px 5px 0px 0px;
+	}
+	.CKInfo {
+		text-align: justify;
+	}
+}
+
 @import "utility";
 
 // Libraries
