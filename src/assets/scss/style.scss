@@ -433,15 +433,16 @@ article img {
 
 .about-page {
 	.CK {
-		margin: 50px auto;
-		width: 50%;
+		width: 500px;
 		padding: 10px;
+		border: 2px solid gray;
+		margin: 0;
 	}
 	img {
-		position: absolute;
-		width: 250px;
-		height: 350px;
-		padding: 0px 150px 0px 0px;
+		padding: 5px;
+    	width: 150px;
+    	float: left;
+    	text-align: center;
 	}
 	.CKInfo {
 		text-align: justify;
