@@ -86,7 +86,6 @@ export const pageQuery = graphql`
     ) {
       id
       html
-      excerpt(pruneLength: 148)
       frontmatter {
         date(formatString: "MMMM DD, YYYY")
         slug
