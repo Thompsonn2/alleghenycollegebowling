@@ -1,7 +1,7 @@
 ---
 template: contact-us-page
 slug: /contact-us
-title: Contact the A.C.B. 
+title: Contact Allegheny College Bowling 
 ---
 If you have any question, comments, or concerns about the Allegheny College Bowling Club please contact either our President, Cam Karnik or our advisor, Matt Betush. Their email address are posted below:
 
