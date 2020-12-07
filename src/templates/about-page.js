@@ -27,6 +27,11 @@ const AboutPage = ({ data }) => {
 				title={frontmatter.title}
 				description={excerpt}
 			/>
+			
+			<div className="wrapper">
+				<h1>{frontmatter.title}</h1>
+				<article dangerouslySetInnerHTML={{ __html: html }} />
+			</div>
 			<div class = "CKInfo">
 				<img src = "/assets/Karnick_Cam_2019.jpg" alt = "CKPicture" align = "left"/>
 				<ul>
@@ -36,11 +41,7 @@ const AboutPage = ({ data }) => {
 					<li>Highscore: ####</li>
 				</ul>
 			</div>
-			<div className="wrapper">
-				<h1>{frontmatter.title}</h1>
-				<article dangerouslySetInnerHTML={{ __html: html }} />
-			</div>
-			
+
 		</Layout>
 	)
 }
