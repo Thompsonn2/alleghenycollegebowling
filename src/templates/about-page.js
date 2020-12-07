@@ -32,9 +32,9 @@ const AboutPage = ({ data }) => {
 				<h1>{frontmatter.title}</h1>
 				<article dangerouslySetInnerHTML={{ __html: html }} />
 			</div>
-			<div class = "CK">
+			<div className = "CK">
 				<img src = "/assets/Karnick_Cam_2019.jpg" alt = ""/>
-				<div class = "CKInfo">
+				<div className = "CKInfo">
 					Cam Karnik, President 	<br></br>
 					Major: Psycology		<br></br>
 					Hometown: Lorain, Ohio	<br></br>
