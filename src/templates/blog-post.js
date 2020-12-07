@@ -95,7 +95,6 @@ export const pageQuery = graphql`
           childImageSharp {
             fluid(maxWidth: 3500, maxHeight: 1980, quality: 80) {
               ...GatsbyImageSharpFluid
-              ...GatsbyImageSharpFluidLimitPresentationSize
             }
             sizes {
               src
