@@ -22,19 +22,20 @@ const AboutPage = ({ data }) => {
 
 	return (
 		<Layout className="page">
+			
+			<SEO
+				title={frontmatter.title}
+				description={excerpt}
+			/>
 			<div class = "CKInfo">
+				<img src = "/assets/Karnick_Cam_2019.jpg" alt = "CKPicture" align = "left"/>
 				<ul>
 					<li>Cam Karnik, President</li>
 					<li>Major: Psycology</li>
 					<li>Hometown: Lorain, Ohio</li>
 					<li>Highscore: ####</li>
 				</ul>
-				<img src = "/assets/Karnick_Cam_2019.jpg" alt = "CKPicture" align = "left"/>
 			</div>
-			<SEO
-				title={frontmatter.title}
-				description={excerpt}
-			/>
 			<div className="wrapper">
 				<h1>{frontmatter.title}</h1>
 				<article dangerouslySetInnerHTML={{ __html: html }} />
