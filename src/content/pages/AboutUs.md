@@ -8,10 +8,7 @@ title: About Us
 
  Here at the Allegheny College Bowling Club we are comitteed to bring the exiciting game of bowling to the Allegheny College community. Most of us here started as beginners so do not feel intimidated to reach out, we are a club for bowlers of all skill levels. To get involved please visit the registration tab to sign up for the club.  
 
-![President](/assets/Karnick_Cam_2019.jpg "President") Cam Karnik, President
-Major: Psycology
-Hometown: Lorain, Ohio
-Highscore: ####
+![President](/assets/Karnick_Cam_2019.jpg "President") 
 
 
 
