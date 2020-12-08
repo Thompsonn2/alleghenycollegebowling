@@ -35,10 +35,34 @@ const AboutPage = ({ data }) => {
 				<article dangerouslySetInnerHTML={{ __html: html }} />
 				<img src = "/assets/Karnick_Cam_2019.jpg" alt = ""/>
 				<p>
-					   Cam Karnik, President 	<br></br>
-					   Major: Psycology		<br></br>
-					   Hometown: Lorain, Ohio	<br></br>
-					   Highscore: 273			<br></br>
+					Cam Karnik, President 	<br></br>
+					Major: Psycology		<br></br>
+					Hometown: Lorain, OH	<br></br>
+					Highscore: 273			<br></br>
+				</p>
+				<br></br>
+				<img src = "/assets/Thompson_Nolan_2019.jpg" alt = ""/>
+				<p>
+					Nolan Thompson, Vice President 	<br></br>
+					Major: Computer Science and Economics		<br></br>
+					Hometown: McMurray, PA	<br></br>
+					Highscore: 230			<br></br>
+				</p>
+				<br></br>
+				<img src = "/assets/Heckert_Brett_2020.jpg" alt = ""/>
+				<p>
+					Brett Hecket, Treasurer 	<br></br>
+					Major: Economics		<br></br>
+					Hometown: Wexford, PA	<br></br>
+					Highscore: 213			<br></br>
+				</p>
+				<br></br>
+				<img src = "/assets/DuBois_Dalton_2019.jpg" alt = ""/>
+				<p>
+					Dalton DuBois 	<br></br>
+					Major: Environmental Science		<br></br>
+					Hometown: Bemus Point, NY	<br></br>
+					Highscore: 211			<br></br>
 				</p>
 			</div>			
 		</Layout>
