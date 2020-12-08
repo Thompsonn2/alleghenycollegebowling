@@ -60,7 +60,7 @@ const AboutPage = ({ data }) => {
 
 				<img src = "/assets/DuBois_Dalton_2019.jpg" alt = ""/>
 				<p>
-					Dalton DuBois 	<br></br>
+					Dalton DuBois, Secretary 	<br></br>
 					Major: Environmental Science		<br></br>
 					Hometown: Bemus Point, NY	<br></br>
 					Highscore: 211			<br></br>
