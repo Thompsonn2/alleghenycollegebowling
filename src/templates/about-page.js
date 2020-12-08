@@ -49,9 +49,9 @@ const AboutPage = ({ data }) => {
 					Highscore: 230			<br></br>
 				</p>
 				<br></br>
-				<img src = "/assets/Heckert_Brett_2020.jpg" alt = ""/>
+				<img src = "/assets/Heckert_Brett_2021.jpg" alt = ""/>
 				<p>
-					Brett Hecket, Treasurer 	<br></br>
+					Brett Heckert, Treasurer 	<br></br>
 					Major: Economics		<br></br>
 					Hometown: Wexford, PA	<br></br>
 					Highscore: 213			<br></br>
