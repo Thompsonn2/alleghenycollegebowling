@@ -49,7 +49,7 @@ const AboutPage = ({ data }) => {
 					Highscore: 230			<br></br>
 				</p>
 				<br></br>
-				<img src = "/assets/Heckert_Brett_2021.jpg" alt = ""/>
+				<img src = "/assets/Heckert_Brett_2021.jpeg" alt = ""/>
 				<p>
 					Brett Heckert, Treasurer 	<br></br>
 					Major: Economics		<br></br>
