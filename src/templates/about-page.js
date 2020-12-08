@@ -4,6 +4,8 @@ import { graphql } from "gatsby"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 
+import "../assets/scss/style.scss"
+
 export const pageQuery = graphql`
   query AboutQuery($id: String!){
 		markdownRemark(id: { eq: $id }) {
