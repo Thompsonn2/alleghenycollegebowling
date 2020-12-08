@@ -33,6 +33,7 @@ const AboutPage = ({ data }) => {
 			<div className="wrapper">
 				<h1>{frontmatter.title}</h1>
 				<article dangerouslySetInnerHTML={{ __html: html }} />
+				<img src = "/assets/Karnick_Cam_2019.jpg" alt = ""/>
 			</div>
 			<img src = "/assets/Karnick_Cam_2019.jpg" alt = ""/>
 			
