@@ -35,10 +35,10 @@ const AboutPage = ({ data }) => {
 				<article dangerouslySetInnerHTML={{ __html: html }} />
 				<img src = "/assets/Karnick_Cam_2019.jpg" alt = ""/>
 				<p>
-					Cam Karnik, President 	<br></br>
-					Major: Psycology		<br></br>
-					Hometown: Lorain, Ohio	<br></br>
-					Highscore: 273			<br></br>
+					   Cam Karnik, President 	<br></br>
+					   Major: Psycology		<br></br>
+					   Hometown: Lorain, Ohio	<br></br>
+					   Highscore: 273			<br></br>
 				</p>
 			</div>			
 		</Layout>
