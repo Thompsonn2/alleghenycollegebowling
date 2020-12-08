@@ -40,7 +40,7 @@ const AboutPage = ({ data }) => {
 					Hometown: Lorain, OH	<br></br>
 					Highscore: 273			<br></br>
 				</p>
-				<br></br>
+
 				<img src = "/assets/Thompson_Nolan_2019.jpg" alt = ""/>
 				<p>
 					Nolan Thompson, Vice President 	<br></br>
@@ -48,7 +48,7 @@ const AboutPage = ({ data }) => {
 					Hometown: McMurray, PA	<br></br>
 					Highscore: 230			<br></br>
 				</p>
-				<br></br>
+
 				<img src = "/assets/Heckert_Brett_2021.jpeg" alt = ""/>
 				<p>
 					Brett Heckert, Treasurer 	<br></br>
@@ -56,7 +56,7 @@ const AboutPage = ({ data }) => {
 					Hometown: Wexford, PA	<br></br>
 					Highscore: 213			<br></br>
 				</p>
-				<br></br>
+
 				<img src = "/assets/DuBois_Dalton_2019.jpg" alt = ""/>
 				<p>
 					Dalton DuBois 	<br></br>
