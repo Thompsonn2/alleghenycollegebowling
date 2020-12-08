@@ -33,6 +33,7 @@ const AboutPage = ({ data }) => {
 			<div className="wrapper">
 				<h1>{frontmatter.title}</h1>
 				<article dangerouslySetInnerHTML={{ __html: html }} />
+				<h2>Allegheny College Bowling Officers</h2>
 				<img src = "/assets/Karnick_Cam_2019.jpg" alt = ""/>
 				<p>
 					Cam Karnik, President 	<br></br>
